@@ -1,0 +1,13 @@
+{
+  "name": "query-test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "webpack --mode=development"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.0",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.0"
+  }
+}
